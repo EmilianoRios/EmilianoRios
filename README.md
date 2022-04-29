@@ -18,7 +18,7 @@ Mi nombre es Emiliano Luis Rios! Programador Full-stack
 - Django.
 
 ### Bibliotecas que utilizo:
-- Bootstrap
+- Bootstrap.
 
 ### Otros conocimientos en:
 - API's.
