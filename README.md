@@ -1,6 +1,4 @@
-# Emiliano
-
-¡Hola!
+# ¡Hola!
 
 Mi nombre es Emiliano Luis Rios! Programador Full-stack
 
@@ -25,6 +23,3 @@ Mi nombre es Emiliano Luis Rios! Programador Full-stack
 ### Otros conocimientos en:
 - API's.
 - Base de datos.
-
-### A lo que aspiro:
-- 
