@@ -6,7 +6,7 @@ Mi nombre es Emiliano Luis Rios! Programador Full-stack
 - Soy un estudiante de 3° año de la carrera Licenciatura en Sistema de Información en la Universidad de la Cuenca del Plata Argentina.
 - Me encantan la programación los juegos y crear.
 
-### Lenguajes en los que me especializo
+### Lenguajes en los que me especializo:
 - HTML.
 - CSS.
 - JavaScript.
