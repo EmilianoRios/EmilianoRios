@@ -23,3 +23,5 @@ Mi nombre es Emiliano Luis Rios! Programador Full-stack
 ### Otros conocimientos en:
 - API's.
 - Base de datos.
+- Firebase.
+- NodeJS.
