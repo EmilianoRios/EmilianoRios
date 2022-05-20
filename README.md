@@ -19,6 +19,7 @@ Mi nombre es Emiliano Luis Rios! Programador Full-stack
 
 ### Bibliotecas que utilizo:
 - Bootstrap.
+- React
 
 ### Otros conocimientos en:
 - API's.
