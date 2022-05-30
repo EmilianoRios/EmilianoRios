@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wavingtext=Emiliano%Rios.)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Emiliano%Rios.)
 
 Mi nombre es Emiliano Luis Rios! Programador Full-stack
 
