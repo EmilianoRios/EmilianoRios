@@ -5,8 +5,8 @@ Mi nombre es Emiliano Luis Rios! Programador Web (Frontend - Backend)
 ### Me especializo en:
 - Javascript.
 - NodeJS.
-- Express para API's.
-- React.
+- ExpressJS para API's.
+- ReactJS.
 
 ### Acerca de mi:
 - Soy un estudiante de 3° año de la carrera Licenciatura en Sistema de Información en la Universidad de la Cuenca del Plata Argentina.
