@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&fontSize=40&text=EmilianoRios.&fontAlignY=40&desc=Programador%20Web&descAlign=50&color=gradient&customColorList=5)
+![header](https://capsule-render.vercel.app/api?type=waving&fontSize=40&text=EmilianoRios.&fontAlignY=40&desc=Programador%20Web&descAlign=50&color=gradient&customColorList=12)
 
 Mi nombre es Emiliano Luis Rios! Programador Web (Frontend - Backend)
 
