@@ -3,7 +3,7 @@
  </p>
 
  <p align='justify'>
-	<a>¡Hola!, me llamo Emiliano Rios y actualmente soy estudiante universitario en la carrera "Licenciatura en Sistemas de Información" en la "Universidad de la Cuenca del Plata" en Formosa, Argentina. Estoy en mi cuarto año de estudios, lo que me ha permitido obtener el título intermedio de "Técnico Universitario en Sistemas de Información".	</a>
+	<a>¡Hola!, me llamo Emiliano y actualmente soy estudiante universitario en la carrera "Licenciatura en Sistemas de Información" en la "Universidad de la Cuenca del Plata" en Formosa, Argentina. Estoy en mi cuarto año de estudios, lo que me ha permitido obtener el título intermedio de "Técnico Universitario en Sistemas de Información".	</a>
 	<br>
 	<br>
 	<a>Durante mi trayecto universitario, he desarrollado habilidades en diversas áreas de los Sistemas Informáticos, incluyendo el análisis, relevamiento, diseño, 	gestión, control, mantenimiento y seguridad. Asimismo, cuento con una experiencia de más de tres años en el campo del desarrollo web.
